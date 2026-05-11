@@ -9,7 +9,7 @@
 ```
 ML-Roadmap/
 │
-├── README.md                          ← You are here (Main Roadmap)
+├── README.md                          
 │
 ├── Week-01-Linear-Regression/
 │   ├── README.md
