@@ -1,4 +1,4 @@
-# Week 1 — Linear Regression
+# 1 — Linear Regression
 
 > **Theme:** Foundations of Supervised Learning — Regression  
 > **Dataset:** California Housing (sklearn) | **Tools:** Python, statsmodels, scikit-learn, Seaborn, Plotly
